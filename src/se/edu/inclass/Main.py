@@ -7,7 +7,7 @@ from typing import List
 # Main function
 def main():
     print("------------------------------------------------------------")
-    print("Welcome to SimplyDoIt Good\n")
+    print("Welcome to SimplyDoIt\n")
     dm = DataManager("./data/data.txt")
     tasks_data = dm.load_1data()
 
